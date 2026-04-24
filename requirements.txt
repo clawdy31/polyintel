@@ -1,0 +1,7 @@
+streamlit>=1.28
+pandas>=2.0
+requests>=2.31
+plotly>=5.18
+python-telegram-bot>=20
+httpx>=0.25
+python-dotenv>=1.0
